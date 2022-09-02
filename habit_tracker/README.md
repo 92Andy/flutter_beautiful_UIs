@@ -10,5 +10,4 @@ Start Page of the UI
 <div style="text-align: center">
     <img width="200" alt="Start Page" src="https://github.com/92Andy/flutter_beautiful_UIs/blob/doc/readme/habit_tracker/images/start-page-screen.png">
 </div>
-![StartPage](images/start-page-screen.png)
-The picture of the shaker we recreated using the <a href="https://rive.app">Rive</a> editor. The Buttons are custom made with...
+The picture of the shaker we recreated using the <a href="https://rive.app">Rive</a> editor. The buttons are custom made buttons with gradients using the overall theming.
