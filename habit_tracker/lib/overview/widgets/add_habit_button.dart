@@ -10,20 +10,20 @@ class AddHabitButton extends StatelessWidget {
     required this.navToAddHabitPage,
   }) : super(key: key);
 
-  final double radius = 7.5.h;
-  final double blur = 2.5;
+  final double _radius = 7.5.h;
+  final double _blur = 2.5;
   final VoidCallback navToAddHabitPage;
 
   BorderRadius get circularBorderRadius =>
-      BorderRadius.all(Radius.circular(radius));
+      BorderRadius.all(Radius.circular(_radius));
 
   Color get whiteWithSmallOpacity => Colors.white.withOpacity(0.1);
 
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: radius,
-      width: radius,
+      height: _radius,
+      width: _radius,
       decoration: BoxDecoration(
         gradient: styledFullWithLightPurpleGradient,
         borderRadius: circularBorderRadius,
@@ -32,8 +32,8 @@ class AddHabitButton extends StatelessWidget {
         borderRadius: circularBorderRadius,
         child: BackdropFilter(
           filter: ImageFilter.blur(
-            sigmaX: blur,
-            sigmaY: blur,
+            sigmaX: _blur,
+            sigmaY: _blur,
           ),
           blendMode: BlendMode.srcATop,
           child: Container(
@@ -47,7 +47,7 @@ class AddHabitButton extends StatelessWidget {
               highlightColor: whiteWithSmallOpacity,
               child: Icon(
                 Icons.add,
-                size: 20,
+                size: 30,
                 color: Theme.of(context).colorScheme.surface,
               ),
             ),
