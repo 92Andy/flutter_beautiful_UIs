@@ -1,4 +1,4 @@
-[<img src="https://github.com/92Andy/flutter_beautiful_UIs/blob/doc/readme/habit_tracker/images/Google-flutter-logo.png" align="center" width="850">](https://flutter.dev/)
+[<img src="https://github.com/92Andy/flutter_beautiful_UIs/blob/doc/readme/habit_tracker/images/Google-flutter-logo.png" align="center" width="600">](https://flutter.dev/)
 
 # Flutter beautiful UI's
 
