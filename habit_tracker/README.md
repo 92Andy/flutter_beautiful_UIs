@@ -10,4 +10,4 @@ Start Page of the UI
 <div style="text-align: center">
     <img width="200" alt="Start Page" src="https://github.com/92Andy/flutter_beautiful_UIs/blob/doc/readme/habit_tracker/images/start-page-screen.png">
 </div>
-The picture of the shaker we recreated using the <a href="https://rive.app">Rive</a> editor. The buttons are custom made buttons with gradients using the overall theming.
+The picture of the shaker we recreated using the <a href="https://rive.app">Rive</a> editor. The buttons are custom made buttons with gradients using the overall theming. The following page for adding a habit contains an overview of different states in a circular progress bar. Beneath the progress bar is a scrollable list of different habits that can be added. To implement that progress bar we used a package called ... 
