@@ -8,7 +8,7 @@ You can find the used design <a href="https://dribbble.com/shots/15880150-Habit-
 ## Demonstrations
 Start Page of the UI
 <div style="text-align: center">
-    <img width="200" alt="Start Page" src="https://github.com/92Andy/flutter_beautiful_UIs/blob/doc/readme/habit_tracker/images/start-page-screen.png">
+    <img width="200" alt="Start Page" src="https://github.com/92Andy/flutter_beautiful_UIs/blob/doc/readme/habit_tracker/images/start-page.png">
     <img width="200" alt="Start Page" src="https://github.com/92Andy/flutter_beautiful_UIs/blob/doc/readme/habit_tracker/images/overview-page.png">
     <img width="200" alt="Start Page" src="https://github.com/92Andy/flutter_beautiful_UIs/blob/doc/readme/habit_tracker/images/add-habit-page.png">
 </div> 
